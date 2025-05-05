@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+body
+{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+form
+{
+	width:300px;
+	padding:20px;
+	border-radius:10px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+	background-color:white;
+}
+label
+{
+	display:block;
+	margin-top:10px;
+	margin-bottom:5px;
+}
